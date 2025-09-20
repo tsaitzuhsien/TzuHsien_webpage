@@ -2,16 +2,16 @@ body {
 	background-color: rgb(255, 250, 250);
     font-size: 14pt;
 	width: 80%;
-	align: center;
-	text-align: center;}
+	padding: 10px;
+	margin: auto;}
 
 h1 {
 	background-color: rgb(25, 25, 112);
     color: rgb(255, 255, 255);
 	font-family: Helvetica, sans-serif;
 	font-size: 36pt;
-	align: center;
-	text-align: center;}
+	text-align: center;
+	margin: auto;}
 
 a:hover {
 	background-color: rgb(25, 25, 112);
