@@ -73,13 +73,11 @@ div.main {
 	border: 1px solid rgb(0, 0, 0);
 }
 
-div.intro {
-}
-
-div.table_of_content {
-}
-
 ul.table_of_content {
 	list-style-type: none;
 	margin-right: 10px;
+}
+
+div.intro {
+	margin-top: 0.5em;
 }
