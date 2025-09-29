@@ -21,7 +21,7 @@ h3 {
 }
 
 ol {
-	list-style-type: upper-greek;
+	list-style-type: "- ";
 	list-style-position: outside;
 }
 
