@@ -46,3 +46,21 @@ ul.table_of_content li{
 	margin-bottom: 0.3em;
 }
 
+.poem-box {
+    --poem-box-color: #f4efe7;
+
+    width: min(90%, 700px);
+    box-sizing: border-box;
+    padding: 0.5rem 3rem;
+    margin: 1rem 1rem;
+
+    background-color: var(--poem-box-color);
+    border: 1px solid #d8d0c4;
+    border-radius: 16px;
+	font-size: 14pt;
+}
+
+.poem-title {
+	margin: 0.5rem auto;
+	text-align: right; 
+}
